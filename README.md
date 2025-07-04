@@ -15,4 +15,4 @@
 
 网站采用CDN全球加速与懒加载技术，页面响应迅速，支持高清播放不掉帧。界面简洁，无多余干扰元素，整体体验更贴近用户需求，符合搜索引擎对高质量内容的评估标准。如果你在寻找一个稳定、安全、真正免费的日本AV资源站点，这里将是值得收藏的首选。请合理使用资源，遵守本地法律法规，理性观影。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/bkpp20250704/bkpp3 ）</span>
